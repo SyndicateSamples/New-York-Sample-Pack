@@ -1,36 +1,36 @@
 # New-York-Sample-Pack
 
-# 🗽 NYC DEVELOPMENT DATA PACK — 2025
+# 🗽 NYC DEVELOPMENT DATA PACK — 2025  
 **Curated by Syndicate**  
 *“Making the Invisible Visible”*
 
 ---
 
-Welcome, and thanks for checking out the Syndicate NYC Data Pack.
-
-This bundle is a cleaned, enriched, and analysis-ready set of datasets built for:
+Welcome — and thanks for checking out the **Syndicate NYC Data Pack**, a curated collection of analysis-ready datasets and visuals designed for:
 
 - 🏙️ Urban planners  
 - 🧱 Real estate developers  
-- 🧮 Estimators and consultants  
-- 🧠 Civic tech teams  
-- 🗂️ Data analysts focused on NYC growth and zoning
+- 🧮 Estimators & consultants  
+- 🧠 Civic tech & research teams  
+- 📊 Analysts working in zoning, permits, land use, or valuation
 
-It brings together public records from multiple NYC sources, pre-joined, normalized, and packaged to save **40+ hours of prep time.**
+This project brings together **public records** from multiple NYC agencies — cleaned, joined, and organized to save 40+ hours of data wrangling.
 
 ---
 
 ## 📊 What's Inside?
 
-> This dataset includes ZIP-level overlays of:  
-> ✅ DOB permit trends (2022–2025)  
-> ✅ Parcel-level zoning, land use, and FAR usage  
-> ✅ Property valuation shifts (YoY AVTOT)  
-> ✅ Underbuilt parcel flags (FAR gap)  
-> ✅ Contractor density + permit types  
-> ✅ Demographics by borough/ZIP
+The **paid full version** includes ZIP-level overlays and analysis covering:
 
-All data is sourced from NYC Open Data portals and agencies:
+- ✅ DOB permit trends (2022–2025)
+- ✅ Zoning data (PLUTO): FAR usage, lot area, building year
+- ✅ Property valuation shifts (AVTOT, full value, tax class)
+- ✅ Underbuilt parcel detection (FAR gap)
+- ✅ Permit approval probability by ZIP
+- ✅ Contractor clustering + permit type distribution
+- ✅ Demographics: income, rent burden, race/language
+
+All datasets are sourced from:
 - NYC Department of Buildings (DOB)
 - Department of City Planning (DCP / PLUTO)
 - Department of Finance (DOF)
@@ -38,7 +38,24 @@ All data is sourced from NYC Open Data portals and agencies:
 
 ---
 
-## 🗂️ File Structure
+## 🧪 This Free Sample Includes:
+
+This preview pack is designed to let you explore what the full data product feels like. Included:
+
+- `underbuilt_zip_far_gap.csv` – Sample ZIP-level FAR gap data
+- `permit_type_pie.png` – Visual of permit type breakdown
+- `approval_probability_heatmap.png` – Map of approval odds by ZIP
+- `README_Preview.txt` – Explanation of fields, methodology, and use cases
+
+To access the **full pack** (all boroughs, full date range, enriched columns, and visuals), contact us at:  
+📧 **grand1dj7@gmail.com**
+
+---
+
+## 🗂️ Full File Structure (Paid Pack)
+
+See below for the structure of the full NYC dataset and visuals included in the paid version:
+
 📁 DATA_CSV/
 New York DOB Permits/
 
