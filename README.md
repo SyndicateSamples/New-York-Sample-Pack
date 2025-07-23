@@ -63,12 +63,12 @@ See below for the structure of the full NYC dataset and visuals included in the 
      - Includes added approval insights and contractor tagging
 
 📁NYC_PLUTO/
-     - NYC PLUTO v25.2 full dataset
+- NYC PLUTO v25.2 full dataset
      - Includes zoning, land use, FAR, units, and lot/building area
 
 📁Property Val and Assessment/
-     - Raw tax roll + AVTOT data (2018–2025)
-     = Includes year-over-year property value changes
+- Raw tax roll + AVTOT data (2018–2025)
+     - Includes year-over-year property value changes
 
 📁demographics_by_zip.xlsx
     – Demographic snapshot (median income, rent burden, language, etc.)
