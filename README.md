@@ -6,7 +6,7 @@
 
 ---
 
-Welcome — and thanks for checking out the **Syndicate NYC Data Pack**,This is a very small sample set for you to get a understanding of what you will be getting. You can everything included below.
+Welcome — and thanks for checking out the **Syndicate NYC Data Pack**, This is a very small sample set for you to get a understanding of what you will be getting. You can everything included below.
 This curated collection of analysis-ready datasets and visuals designed for:
 
 - 🏙️ Urban planners  
