@@ -59,25 +59,25 @@ See below for the structure of the full NYC dataset and visuals included in the 
 
 📁 DATA_CSV/
 - New York DOB Permits/
-    - Cleaned NYC DOB permit filings (2022–2025) by borough
-    - Includes added approval insights and contractor tagging
+     - Cleaned NYC DOB permit filings (2022–2025) by borough
+     - Includes added approval insights and contractor tagging
 
 📁NYC_PLUTO/
-    - NYC PLUTO v25.2 full dataset
-    - Includes zoning, land use, FAR, units, and lot/building area
+     - NYC PLUTO v25.2 full dataset
+     - Includes zoning, land use, FAR, units, and lot/building area
 
 📁Property Val and Assessment/
-    - Raw tax roll + AVTOT data (2018–2025)
-    = Includes year-over-year property value changes
+     - Raw tax roll + AVTOT data (2018–2025)
+     = Includes year-over-year property value changes
 
-demographics_by_zip.xlsx
-– Demographic snapshot (median income, rent burden, language, etc.)
+📁demographics_by_zip.xlsx
+    – Demographic snapshot (median income, rent burden, language, etc.)
 
-permit_value_uplift_by_zip.csv
-– Average property value change per ZIP compared to permits filed
+📁permit_value_uplift_by_zip.csv
+  – Average property value change per ZIP compared to permits filed
 
-underbuilt_zip_far_gap.csv
-– FAR utilization by ZIP (current FAR vs allowed maximum FAR)
+📁underbuilt_zip_far_gap.csv
+   – FAR utilization by ZIP (current FAR vs allowed maximum FAR)
 
 📁 VISUALS/
 avg_yearbuilt_by_zip.html
