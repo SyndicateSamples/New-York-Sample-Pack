@@ -6,7 +6,8 @@
 
 ---
 
-Welcome — and thanks for checking out the **Syndicate NYC Data Pack**, a curated collection of analysis-ready datasets and visuals designed for:
+Welcome — and thanks for checking out the **Syndicate NYC Data Pack**,This is a very small sample set for you to get a understanding of what you will be getting. You can everything included below.
+This curated collection of analysis-ready datasets and visuals designed for:
 
 - 🏙️ Urban planners  
 - 🧱 Real estate developers  
@@ -14,7 +15,7 @@ Welcome — and thanks for checking out the **Syndicate NYC Data Pack**, a curat
 - 🧠 Civic tech & research teams  
 - 📊 Analysts working in zoning, permits, land use, or valuation
 
-This project brings together **public records** from multiple NYC agencies — cleaned, joined, and organized to save 40+ hours of data wrangling.
+This project brings together **public records** from multiple NYC agencies — cleaned, joined, and organized to save 40+ hours of time. 
 
 ---
 
@@ -57,23 +58,17 @@ To access the **full pack** (all boroughs, full date range, enriched columns, an
 See below for the structure of the full NYC dataset and visuals included in the paid version:
 
 📁 DATA_CSV/
-New York DOB Permits/
+- New York DOB Permits/
+    - Cleaned NYC DOB permit filings (2022–2025) by borough
+    - Includes added approval insights and contractor tagging
 
-Cleaned NYC DOB permit filings (2022–2025) by borough
+📁NYC_PLUTO/
+    - NYC PLUTO v25.2 full dataset
+    - Includes zoning, land use, FAR, units, and lot/building area
 
-Includes added approval insights and contractor tagging
-
-NYC_PLUTO/
-
-NYC PLUTO v25.2 full dataset
-
-Includes zoning, land use, FAR, units, and lot/building area
-
-Property Val and Assessment/
-
-Raw tax roll + AVTOT data (2018–2025)
-
-Includes year-over-year property value changes
+📁Property Val and Assessment/
+    - Raw tax roll + AVTOT data (2018–2025)
+    = Includes year-over-year property value changes
 
 demographics_by_zip.xlsx
 – Demographic snapshot (median income, rent burden, language, etc.)
@@ -86,13 +81,13 @@ underbuilt_zip_far_gap.csv
 
 📁 VISUALS/
 avg_yearbuilt_by_zip.html
-– Interactive map: average construction year per ZIP
+  – Interactive map: average construction year per ZIP
 
 density_scatter_units_vs_lotarea.png
-– Scatter plot: units vs lot area by land use type
+  – Scatter plot: units vs lot area by land use type
 
 land_use_breakdown_by_zip.html
-– Choropleth: % of land zoned residential by ZIP
+  – Choropleth: % of land zoned residential by ZIP
 
 permit_type_pie.png
-– Pie chart: distribution of DOB job types
+  – Pie chart: distribution of DOB job types
