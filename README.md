@@ -71,23 +71,23 @@ See below for the structure of the full NYC dataset and visuals included in the 
      - Includes year-over-year property value changes
 
 📁demographics_by_zip.xlsx
-    – Demographic snapshot (median income, rent burden, language, etc.)
+– Demographic snapshot (median income, rent burden, language, etc.)
 
 📁permit_value_uplift_by_zip.csv
-  – Average property value change per ZIP compared to permits filed
+– Average property value change per ZIP compared to permits filed
 
 📁underbuilt_zip_far_gap.csv
-   – FAR utilization by ZIP (current FAR vs allowed maximum FAR)
+– FAR utilization by ZIP (current FAR vs allowed maximum FAR)
 
 📁 VISUALS/
-avg_yearbuilt_by_zip.html
-  – Interactive map: average construction year per ZIP
+- avg_yearbuilt_by_zip.html
+    – Interactive map: average construction year per ZIP
 
-density_scatter_units_vs_lotarea.png
+- density_scatter_units_vs_lotarea.png
   – Scatter plot: units vs lot area by land use type
 
-land_use_breakdown_by_zip.html
-  – Choropleth: % of land zoned residential by ZIP
+- land_use_breakdown_by_zip.html
+    – Choropleth: % of land zoned residential by ZIP
 
-permit_type_pie.png
-  – Pie chart: distribution of DOB job types
+- permit_type_pie.png
+    – Pie chart: distribution of DOB job types
